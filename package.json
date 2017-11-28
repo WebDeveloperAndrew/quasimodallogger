@@ -1,0 +1,12 @@
+{
+  "name": "quasimodallogger",
+  "version": "1.0.1",
+  "description": "A custom logging solution for node.js applications",
+  "main": "./Module/loggingModule.js",
+  "repository": "https://github.com/WebDeveloperAndrew/quasimodallogger",
+  "author": "Andrew Irwin <webdeveloperandrew@gmail.com>",
+  "dependencies": {
+    "bunyan": "~1.8.12",
+    "bunyan-rotating-file-stream": "~1.6.3"
+  }
+}
