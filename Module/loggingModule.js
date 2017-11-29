@@ -1,4 +1,3 @@
-require('dotenv').config();
 const path = "./logs/";
 const applicationName = process.env.APPNAME || "APPNAME";
 const combinedLogName = "combined";
